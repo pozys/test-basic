@@ -1,6 +1,6 @@
 <?php
 
-namespace Test\Basic\StringUtils;
+namespace StringUtils;
 
 function capitalize($text)
 {
