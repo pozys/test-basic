@@ -1,0 +1,15 @@
+{
+    "name": "pozys/test-basic",
+    "autoload": {
+        "files": [
+            "src/StringUtils.php"
+        ]
+    },
+    "authors": [
+        {
+            "name": "Культяпов Константин",
+            "email": "pozys@mail.ru"
+        }
+    ],
+    "require": {}
+}
